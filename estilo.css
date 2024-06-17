@@ -1,0 +1,19 @@
+.qdd{
+    border: solid;
+    border-bottom:solid;
+    border-left: solid;
+    border-right:solid ;
+    height: 500px;
+    width: 400px;
+    margin-top: 5%;
+    padding-left: 10px;
+    padding-top: 20px;
+    background-color: gray;
+}
+img{
+    top: 57px;
+    padding-left: 3px;
+    width: 100px;
+    margin-left: 325px;
+    position: fixed;
+}
